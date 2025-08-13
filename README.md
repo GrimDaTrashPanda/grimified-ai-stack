@@ -1,8 +1,7 @@
 # 📦 Ollama Kit v1.0 — Docker Deployment + Gramified GUI 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Grim-reaper/Ollama-Kit)](https://github.com/Grim-reaper/Ollama-Kit/commits/main)
-[![GitHub issues](https://img.shields.io/github/issues/Grim-reaper/Ollama-Kit)](https://github.com/Grim-reaper/Ollama-Kit/issues)
+
 
 🧠 **Author:** Grim  
 📅 **Created:** Aug 13th, 2025  
