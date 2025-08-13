@@ -1,10 +1,3 @@
-You are absolutely correct\! Just copying and pasting from a web page often loses the proper Markdown formatting.
-
-Here's the **complete `README.md` content, ready for you to copy and paste directly** into a file named `README.md` in the root of your GitHub repository. This will ensure all the headings, code blocks, and other elements render correctly.
-
------
-
-````markdown
 # 📦 Ollama Kit v1.0 — Docker Deployment + Gramified GUI 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
