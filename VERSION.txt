@@ -1,0 +1,4 @@
+Gramified AI Stack – Portable Deployment
+Version: 1.0
+Date: 2025-08-13
+Description: Stable release for Fedora & Debian-based systems.
